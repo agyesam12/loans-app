@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+pillow = "*"
+requests = "*"
 
 [dev-packages]
 
